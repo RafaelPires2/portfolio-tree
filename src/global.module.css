@@ -11,6 +11,13 @@ body {
     font-family: 'Poppins', sans-serif;
 
 }
+.container {
+    width: 100vw;
+    height: 100vh;
+
+    background: rgb(22, 22, 22);
+
+}
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -18,9 +25,9 @@ body {
     align-items: center;
 
     width: 100vw;
-    height: 100vh;
+    height: 80vh;
 
-    background: rgb(31, 31, 31);
+    background: rgb(22, 22, 22);
 
 }
 a, button, input {
