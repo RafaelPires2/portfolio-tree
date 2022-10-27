@@ -2,6 +2,8 @@ import global from './global.module.css'
 import { User } from './components/perfil/User'
 import { Post } from './components/posts/Post'
 
+import React from 'react'
+
 export function App() {
 
   return (
